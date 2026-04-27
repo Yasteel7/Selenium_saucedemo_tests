@@ -4,7 +4,7 @@
 This project demonstrates automated UI testing using **Selenium WebDriver** with **PyTest**.  
 It covers login scenarios (positive and negative) and a full end‑to‑end checkout flow on the [SauceDemo](https://www.saucedemo.com/) practice site.
 
-The repo is structured using the **Page Object Model (POM)** for maintainability and includes reusable helpers in `utils/`.
+The repo is structured using the **Page Object Model (POM)** for maintainability.
 
 ---
 
