@@ -32,9 +32,13 @@ pytest -v
 ---
 
 Tech Stack:
+
 Python 3.14.3
+
 Selenium WebDriver
+
 PyTest
+
 Page Object Model (POM) design pattern
 
 ---
