@@ -9,11 +9,11 @@ The repo is structured using the **Page Object Model (POM)** for maintainability
 ---
 
 ## Features
-- ✅ Positive login test (valid credentials)
-- ❌ Negative login tests (invalid username, invalid password, both invalid)
-- 🛒 End‑to‑end checkout flow (add to cart → checkout info → overview → finish → confirmation)
-- 📂 Clean project structure with `pages/`, `tests/`, and `utils/`
-- 🔄 Reusable driver utilities (explicit waits, helpers)
+-  Positive login test (valid credentials)
+-  Negative login tests (invalid username, invalid password, both invalid)
+-  End‑to‑end checkout flow (add to cart → checkout info → overview → finish → confirmation)
+-  Clean project structure with `pages/`, `tests/`, and `utils/`
+-  Reusable driver utilities (explicit waits, helpers)
 
 ---
 
